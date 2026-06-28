@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saumya1694/DSA/tree/master/0001-two-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saumya1694/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saumya1694/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saumya1694/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saumya1694/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saumya1694/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saumya1694/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saumya1694/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
