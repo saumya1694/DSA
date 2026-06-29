@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumya1694/DSA/tree/master/0001-two-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saumya1694/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saumya1694/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saumya1694/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saumya1694/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumya1694/DSA/tree/master/0001-two-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saumya1694/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saumya1694/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saumya1694/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saumya1694/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
