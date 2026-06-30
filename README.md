@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumya1694/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/saumya1694/DSA/tree/master/0027-remove-element) |
 | [0566-reshape-the-matrix](https://github.com/saumya1694/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/saumya1694/DSA/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saumya1694/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saumya1694/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saumya1694/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
