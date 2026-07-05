@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saumya1694/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/saumya1694/DSA/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/saumya1694/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/saumya1694/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saumya1694/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/saumya1694/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/saumya1694/DSA/tree/master/0575-distribute-candies) |
@@ -137,9 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saumya1694/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/saumya1694/DSA/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/saumya1694/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saumya1694/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saumya1694/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/saumya1694/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/saumya1694/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saumya1694/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
