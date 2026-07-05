@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saumya1694/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saumya1694/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/saumya1694/DSA/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/saumya1694/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/saumya1694/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/saumya1694/DSA/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saumya1694/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saumya1694/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/saumya1694/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0575-distribute-candies](https://github.com/saumya1694/DSA/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saumya1694/DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saumya1694/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/saumya1694/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saumya1694/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## String
 | Problem Name | Difficulty |
