@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saumya1694/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saumya1694/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/saumya1694/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saumya1694/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saumya1694/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/saumya1694/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saumya1694/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
