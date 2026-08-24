@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saumya1694/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saumya1694/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saumya1694/DSA/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/saumya1694/DSA/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saumya1694/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/saumya1694/DSA/tree/master/2029-stone-game-ix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saumya1694/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saumya1694/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saumya1694/DSA/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saumya1694/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saumya1694/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saumya1694/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/saumya1694/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/saumya1694/DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saumya1694/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saumya1694/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saumya1694/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/saumya1694/DSA/tree/master/2029-stone-game-ix) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/saumya1694/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/saumya1694/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/saumya1694/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saumya1694/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saumya1694/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saumya1694/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saumya1694/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saumya1694/DSA/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/saumya1694/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/saumya1694/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -409,12 +414,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/saumya1694/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/saumya1694/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/saumya1694/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/saumya1694/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/saumya1694/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saumya1694/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/saumya1694/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 | Problem Name | Difficulty |
