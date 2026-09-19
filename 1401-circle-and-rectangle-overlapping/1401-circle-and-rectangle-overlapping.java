@@ -1,4 +1,5 @@
 class Solution {
+
     public boolean checkOverlap(
         int radius,
         int xCenter,
