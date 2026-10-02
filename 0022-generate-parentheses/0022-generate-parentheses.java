@@ -1,27 +1,24 @@
-import java.util.*;
-
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, "", 0, 0, n);
-        return result;
+        List<String> res = new ArrayList<>();
+
+        dfs(0, 0, "", n, res);
+
+        return res;        
     }
 
-    public void backtrack(List<String> result, String current, int open, int close, int n) {
-        // Base case
-        if (current.length() == 2 * n) {
-            result.add(current);
+    private void dfs(int openP, int closeP, String s, int n, List<String> res) {
+        if (openP == closeP && openP + closeP == n * 2) {
+            res.add(s);
             return;
         }
 
-        // Add '('
-        if (open < n) {
-            backtrack(result, current + "(", open + 1, close, n);
+        if (openP < n) {
+            dfs(openP + 1, closeP, s + "(", n, res);
         }
 
-        // Add ')'
-        if (close < open) {
-            backtrack(result, current + ")", open, close + 1, n);
+        if (closeP < openP) {
+            dfs(openP, closeP + 1, s + ")", n, res);
         }
-    }
+    }    
 }
