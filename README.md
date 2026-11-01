@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/saumya1694/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/saumya1694/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/saumya1694/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/saumya1694/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saumya1694/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/saumya1694/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saumya1694/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/saumya1694/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/saumya1694/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/saumya1694/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/saumya1694/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
