@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saumya1694/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saumya1694/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/saumya1694/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/saumya1694/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saumya1694/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/saumya1694/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saumya1694/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saumya1694/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saumya1694/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saumya1694/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/saumya1694/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saumya1694/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saumya1694/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/saumya1694/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saumya1694/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saumya1694/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saumya1694/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/saumya1694/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saumya1694/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/saumya1694/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saumya1694/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saumya1694/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saumya1694/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saumya1694/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/saumya1694/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/saumya1694/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 |  |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/saumya1694/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/saumya1694/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/saumya1694/DSA/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/saumya1694/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/saumya1694/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/saumya1694/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
